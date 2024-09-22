@@ -1,0 +1,13 @@
+.note{
+position: absolute;
+  padding: .9rem;
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: lightyellow;
+  cursor: move;
+  user-select: none;
+
+}
+.main{
+  position: relative;
+}
